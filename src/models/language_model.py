@@ -1,7 +1,7 @@
 # from .abstract_model import AbstractModel
 # from database.db import db
 
-iniciando projeto
+
 # Req. 1
 class LanguageModel:
     def __init__(self):
